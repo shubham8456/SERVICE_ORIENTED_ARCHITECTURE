@@ -43,6 +43,8 @@ SOA provides the ability to make services consumable in different channels no ma
 
 * Microservices architecture is an application-scoped concept. It enables the internals of a single application to be broken up into small pieces that can be independently changed, scaled, and administered. It does not define how applications talk to one another—for that we are back to the enterprise scope of the service interfaces provided by SOA.
 
+![soa_vs_microservices](https://miro.medium.com/max/1344/1*qAFyYAQSE3e-flZSqprHlg.jpeg)
+
 ### REFRENCES
 [^1] : [What Is Service-Oriented Architecture?](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec), Feb 13th, 2019 
 [^2] : [Service Oriented Architecture](https://www.ibm.com/in-en/cloud/learn/soa) by IBM Cloud Education , July 17th, 2019
