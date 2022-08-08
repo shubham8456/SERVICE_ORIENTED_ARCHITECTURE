@@ -27,9 +27,24 @@ SOA represents an important stage in the evolution of application development an
 * **High investment:** A huge initial investment is required for SOA.
 * **Complex service management:** When services interact they exchange messages to tasks. the number of messages may go in millions. It becomes a cumbersome task to handle a large number of messages.
 
+## COMPONENTS OF SOA
 
+The service and implementation part of SOA has many components. Following chart can help us in understading its structure in a much clearer way.
+![Components_of_SOA](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-248.png)
+
+### How Service-Oriented Architecture And Cloud Computing Work Together
+
+As a company shifts its IT infrastructure toward a hybrid cloud approach, there’s a high likelihood you’ll be transforming a variety of workloads, including those based on SOA, to more lightweight and flexible cloud deployment models. It allows users to easily and immediately implement services tailored to the requirements of their clients
+SOA provides the ability to make services consumable in different channels no matter where the core application or database lives. It helps the organization to capitalize on investments as it modernizes applications on the journey to cloud
+
+### SOA vs Micro-Services[^2]
+
+* SOA is an enterprise-wide concept. It enables existing applications to be exposed over loosely-coupled interfaces, each corresponding to a business function, that enables applications in one part of an extended enterprise to reuse functionality in other applications.
+
+* Microservices architecture is an application-scoped concept. It enables the internals of a single application to be broken up into small pieces that can be independently changed, scaled, and administered. It does not define how applications talk to one another—for that we are back to the enterprise scope of the service interfaces provided by SOA.
 
 ### REFRENCES
 [^1] : [What Is Service-Oriented Architecture?](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec), Feb 13th, 2019 
 [^2] : [Service Oriented Architecture](https://www.ibm.com/in-en/cloud/learn/soa) by IBM Cloud Education , July 17th, 2019
 [^3] : [Service Oriented Architecture](https://www.geeksforgeeks.org/service-oriented-architecture/) by geeksforgeeks, Aug 29th, 2021
+[^quote] : [What Is SOA ? | Service Oriented Architecture Explained](https://www.youtube.com/watch?v=tooRfyCHOT0) Oracle SOA 12c Tutorial on YouTube
